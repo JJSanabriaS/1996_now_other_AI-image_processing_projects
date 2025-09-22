@@ -1,4 +1,4 @@
-__author__ = 'Alexandre Rezende'
+
 import time
 import sys
 import traceback
