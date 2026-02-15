@@ -5,7 +5,7 @@ compilation for different projects (clients from India, Polland, Israel,UK,USA,A
 code in python, c++. visual basic, matlab, labview, java,html
 
 
-* toy face comparator\
+# toy face comparator
  client from Polony\
  python \
  library face_recognition, opencv\ 
@@ -13,28 +13,29 @@ code in python, c++. visual basic, matlab, labview, java,html
  https://youtu.be/MLzse3rrqYk
 
 database sample ![database sample ](/fxomp2.png)
-comparative sample ![comparative sample ](/fxomp1.png)
+comparative sample
+ ![comparative sample ](/fxomp1.png)
 
 
 * https://youtu.be/1vr394l8XAg removido pelo youtube
 
-* Ocr lector\
+# Ocr lector
 client from UK\
 delphi\
 library  opencv\
 development time 1 week\
 https://youtu.be/RncwykLaMSI
 
-user gui ![database sample ](/oxr1.png)
+user gui\ ![database sample ](/oxr1.png)
 detection sample ![comparative sample ](/oxr2.png)
 
 
 
-* pedestrian counter
-client from India
-matlab
-library  opencv
-development time 2 weeks
+# Pedestrian counter
+client from India\
+matlab\
+library  opencv\
+development time 2 weeks\
 https://youtu.be/a8otp5pA8pQ
 
 sngle detection ![database sample ](/pedxont1.png)
