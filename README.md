@@ -41,7 +41,18 @@ https://youtu.be/a8otp5pA8pQ
 sngle detection ![database sample ](/pedxont1.png)
 multiple detection ![comparative sample ](/pedxont2.png)
 
+# Pedestrian counter
+client from India\
+python\
+library  opencv\
+development time 2 weeks\
 * https://youtu.be/wrGLiKTgO-Y
+
+sngle detection ![database sample ](/pedpyth1.png)
+multiple detection ![comparative sample ](/pedpyth2.png)
+
+
+
 * https://youtu.be/mKs075mfCbE
 * https://youtu.be/0VwdFqUIua8
 * https://youtu.be/V9yQVp9gIYg
