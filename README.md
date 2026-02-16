@@ -34,7 +34,7 @@ https://youtu.be/RncwykLaMSI
 
 |   |  |
 |---|--|
-|user gui|![database sample ](v/oxr1.png)| 
+|user gui|![database sample ](/source/images/oxr1.png)| 
 |detection sample|![comparative sample ](/source/images/oxr2.png)| 
  
  
