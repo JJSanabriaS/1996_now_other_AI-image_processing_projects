@@ -8,14 +8,14 @@ code in python, c++. visual basic, matlab, labview, java,html
 # toy face comparator
  client from Polony\
  python \
- library face_recognition, opencv\ 
+ library face_recognition, opencv  
  development time 1 week\
  https://youtu.be/MLzse3rrqYk
 
 |   |  |
 |---|--|
 |database sample |![database sample ](/fxomp2.png)| 
-|comparative sample\|![comparative sample ](/fxomp1.png)| 
+|comparative sample |![comparative sample ](/fxomp1.png)| 
 
 
  
@@ -49,7 +49,7 @@ https://youtu.be/a8otp5pA8pQ
 
 |   |  |
 |---|--|
-|sngle detection|![database sample ](/pedxont1.png)| 
+|single detection|![database sample ](/pedxont1.png)| 
 |multiple detection |![comparative sample ](/pedxont2.png)| 
 
  
@@ -69,7 +69,7 @@ development time 1 weeks\
 
 |   |  |
 |---|--|
-|single detection|![database sample ](/pedpyth1.png)| 
+|single detection|![database sample ](/pedpyth.png)| 
 |multiple detection |![comparative sample ](/pedpyth2.png)| 
 |single detection|![database sample ](/sevpyth1.png)| 
 |different footage|![comparative sample ](/sevpyth2.png)| 
