@@ -14,8 +14,8 @@ code in python, c++. visual basic, matlab, labview, java,html
 
 |   |  |
 |---|--|
-|database sample |![database sample ](/fxomp2.png)| 
-|comparative sample |![comparative sample ](/fxomp1.png)| 
+|database sample |![database sample ](/source/images/fxomp2.png)| 
+|comparative sample |![comparative sample ](/source/images/fxomp1.png)| 
 
 
  
@@ -34,8 +34,8 @@ https://youtu.be/RncwykLaMSI
 
 |   |  |
 |---|--|
-|user gui|![database sample ](/oxr1.png)| 
-|detection sample|![comparative sample ](/oxr2.png)| 
+|user gui|![database sample ](v/oxr1.png)| 
+|detection sample|![comparative sample ](/source/images/oxr2.png)| 
  
  
  ***********************************
@@ -49,8 +49,8 @@ https://youtu.be/a8otp5pA8pQ
 
 |   |  |
 |---|--|
-|single detection|![database sample ](/pedxont1.png)| 
-|multiple detection |![comparative sample ](/pedxont2.png)| 
+|single detection|![database sample ](/source/images/pedxont1.png)| 
+|multiple detection |![comparative sample ](/source/images/pedxont2.png)| 
 
  
 
@@ -69,11 +69,11 @@ development time 1 weeks\
 
 |   |  |
 |---|--|
-|single detection|![database sample ](/pedpyth.png)| 
-|multiple detection |![comparative sample ](/pedpyth2.png)| 
-|single detection|![database sample ](/sevpyth1.png)| 
-|different footage|![comparative sample ](/sevpyth2.png)| 
-|another footage|![comparative sample ](/sevpyth3.png)| 
+|single detection|![database sample ](/source/images/pedpyth.png)| 
+|multiple detection |![comparative sample ](/source/images/pedpyth2.png)| 
+|single detection|![database sample ](/source/images/sevpyth1.png)| 
+|different footage|![comparative sample ](/source/images/sevpyth2.png)| 
+|another footage|![comparative sample ](/source/images/sevpyth3.png)| 
  
 
 
@@ -91,8 +91,8 @@ https://youtu.be/0VwdFqUIua8
 
 |   |  |
 |---|--|
-|gui|![database sample ](/xnnsoil1.png)| 
-|different databases|![comparative sample ](/xnnsoil2.png)| 
+|gui|![database sample ](/source/images/xnnsoil1.png)| 
+|different databases|![comparative sample ](/source/images/xnnsoil2.png)| 
  
  ***********************************
 
@@ -106,9 +106,9 @@ library  opencv\
 
 |   |  |
 |---|--|
-|Detection|![database sample ](/drowsydriver.png)| 
-|Detection|![comparative sample ](/drowsydriver1.png)| 
-|Detection |![comparative sample ](/drowsydriver2.png)| 
+|Detection|![database sample ](/source/images/drowsydriver.png)| 
+|Detection|![comparative sample ](/source/images/drowsydriver1.png)| 
+|Detection |![comparative sample ](/source/images/drowsydriver2.png)| 
  
 ***********************************
 
@@ -120,8 +120,8 @@ library  opencv\
 
 |   |  |
 |---|--|
-|Detection|![database sample ](/platedetex.png)| 
-|Detection|[comparative sample ](/platedetex1.png)| 
+|Detection|![database sample ](/source/images/platedetex.png)| 
+|Detection|[comparative sample ](/source/images/platedetex1.png)| 
 
 ***********************************
 
@@ -133,6 +133,6 @@ library  opencv\
 
 |   |  |
 |---|--|
-|Detection|![database sample ](/pupildetex.png)| 
-|Detection|![comparative sample ](/pupildetex1.png)| 
+|Detection|![database sample ](/source/images/pupildetex.png)| 
+|Detection|![comparative sample ](/source/images/pupildetex1.png)| 
  
