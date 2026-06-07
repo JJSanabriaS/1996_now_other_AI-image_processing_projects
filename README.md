@@ -8,34 +8,33 @@ Development activities included requirements analysis, algorithm design, softwar
 
 ### Programming Languages
 
-Python
-C++
-MATLAB
-Visual Basic
-Java
-LabVIEW
-Delphi
-HTML/CSS
+* Python
+* C++
+* MATLAB
+* Visual Basic
+* Java
+* LabVIEW
+* Delphi
 
 ### Key Domains
 
-Artificial Intelligence (AI)
-Machine Learning
-Deep Learning
-Computer Vision
-Image Processing
-Optical Character Recognition (OCR)
-Pattern Recognition
-Automation and Instrumentation
-Data Analysis
+* Artificial Intelligence (AI)
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Image Processing
+* Optical Character Recognition (OCR)
+* Pattern Recognition
+* Automation and Instrumentation
+* Data Analysis
 
 ### Libraries and Frameworks
 
-OpenCV, yolo, Scikit-Image, TensorFlow, TorchVision, Keras, PyTorch, Caffe, florence 
-face_recognition
-MATLAB Computer Vision Toolbox
-Neural Networks and CNN-based models
-Scientific Computing and Image Processing Libraries
+* OpenCV, yolo, Scikit-Image, TensorFlow, TorchVision, Keras, PyTorch, Caffe, florence 
+* face_recognition
+* MATLAB Computer Vision Toolbox
+* Neural Networks and CNN-based models
+* Scientific Computing and Image Processing Libraries
 
 ***********************************
 # toy face comparator
